@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GaSP - A Unity3D Game
-tags : [finished_projects]
+tags : [Finished Projects]
 ---
 ![Header](/images/header_gasp.png)
 
