@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About Us
-tags:
-- jekyll
-- code
+category: About
+tags: [ieee, contacts]
 ---
 
 [Placeholder Per Una Nostra Foto]
