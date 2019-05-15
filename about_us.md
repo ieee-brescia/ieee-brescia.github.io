@@ -15,9 +15,14 @@ Pellentesque sit amet tincidunt orci, vel porttitor dui. Duis accumsan arcu est,
 
 ## Our Members
 
-* *Lorem ipsum* - Chair
-* *dolor sit amet* - Vice Chair
-* *consectetur adipiscing* - Financial Committee
-* *elit Phasellus ultrices* - Program Committee
-* *sapien tellus, a posuere* - Publicity Committee
-* *sem mollis sed* - Membership Committee
+* **Lorem ipsum** - Chair
+* **dolor sit amet** - Vice Chair
+* **consectetur adipiscing** - Financial Committee
+* **elit Phasellus ultrices** - Program Committee
+* **sapien tellus, a posuere** - Publicity Committee
+* **sem mollis sed** - Membership Committee
+
+## Contact Us
+
+* **Phone Number:** 123456420
+* **E-mail:** hmmmm
