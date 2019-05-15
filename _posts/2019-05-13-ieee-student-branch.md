@@ -1,6 +1,7 @@
 ---
 layout: post
 title: IEEESB - Student Branch Of Brescia
+categories : [ieesb]
 ---
 
 ![Header](/images/header_ieee.jpg)
