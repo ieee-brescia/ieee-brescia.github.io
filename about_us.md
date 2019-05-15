@@ -1,6 +1,9 @@
 ---
 layout: page
 title: About Us
+tags:
+- jekyll
+- code
 ---
 
 [Placeholder Per Una Nostra Foto]
