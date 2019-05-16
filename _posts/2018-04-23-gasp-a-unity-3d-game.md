@@ -25,6 +25,6 @@ If you plan to work on this project you will most likely develop the following s
 ### Resources
 *Useful documentation:*
 
-* Unity3D website: http://unity3d.com/
-* What is Unity3D: https://www.youtube.com/watch?v=AJ6Mkx1KEns
-* Unity3D tutorials: https://unity3d.com/learn/tutorials
+* Unity3D website: [http://unity3d.com/](http://unity3d.com/)
+* What is Unity3D: [https://www.youtube.com/watch?v=AJ6Mkx1KEns](https://www.youtube.com/watch?v=AJ6Mkx1KEns)
+* Unity3D tutorials: [https://unity3d.com/learn/tutorials](https://unity3d.com/learn/tutorials)

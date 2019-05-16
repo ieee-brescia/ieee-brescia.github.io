@@ -26,4 +26,4 @@ Please, carefully read contest rules for further information. Submission must be
 
 Please note that a Google account is needed to perform the submission (IEEE membership includes a free Google account).
 
-![SUBMIT](https://docs.google.com/forms/d/e/1FAIpQLScPzaUINZfZDI_P-qkrl_p6sK0RP0iwPrTzrEVqiZEogDFjOw/closedform)
+[SUBMIT](https://docs.google.com/forms/d/e/1FAIpQLScPzaUINZfZDI_P-qkrl_p6sK0RP0iwPrTzrEVqiZEogDFjOw/closedform)
