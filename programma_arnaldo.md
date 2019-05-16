@@ -4,6 +4,8 @@ title: Manifesto Programma Arnaldo
 tags : [News]
 ---
 
+![Header](https://i.imgur.com/3FheUtd.png)
+
 > Tuttavia, per quanto il movimento arnaldiano abbia avuto un contenuto essenzialmente laico, noi non ci troviamo davanti ad un innovatore religioso semplice ed
 > illetterato, idiota et absque litteris, sul tipo di Valdo, che non sa di latino, bensì di fronte ad uno studioso fornito di vasta cultura teologica e
 > letteraria, ad un magister che terrà scuola a Parigi al posto di Abelardo.
