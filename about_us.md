@@ -29,11 +29,20 @@ Within the site there are some of the *projects* we awithre developing or that w
 * **Samuele Leone** - Treasurer
 * **Nicola Onofri** - Secretary
 * **Prof. Alessandro Depari** - Counselor
-*
-*
-*
-*
-*
+* **Nikita Brancatisano** - Membership committee
+* **Yari Bussi** - Financial Committee
+* **Daniele Della Morte** - Program Committee
+* **Paolo Faustini** - Program Committee
+* **Diego Berardi** - Publicity Committee
+* **Paolo Pasquali** - Publicity COmmittee
+* **Massimo Bono** - Financial Committee
+* **Flavio Giordani** - Financial Committee
+* **Andrea Rossi** - Publicity Committee
+* **Stefano Prandini** - Program Committee
+* **Paolo Bellagente** - Program Committee
+* **Massimiliano Tummolo** - New Members
+* **Alessandro Pagani** - New Members
+
 
 
 ## Contact Us
