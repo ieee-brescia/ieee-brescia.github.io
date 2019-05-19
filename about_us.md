@@ -22,17 +22,23 @@ Within the site there are some of the *projects* we awithre developing or that w
 
 
 
-## Executive committee
+## Members
 
 * **Simone Caldarella** - Chair
 * **Samuele Ponzi** - Vice Chair
 * **Samuele Leone** - Treasurer
 * **Nicola Onofri** - Secretary
 * **Prof. Alessandro Depari** - Counselor
+*
+*
+*
+*
+*
+
 
 ## Contact Us
 
-* **E-mail:** Stb1019_executive@googlegroups.com
-* **Instagram:** /stb01019
-* **Facebook:** /stb1019
-* **Github:** https://github.com/STB1019
+* **E-mail:** <Stb1019_executive@googlegroups.com>
+* **Instagram:** <https://www.instagram.com/stb01019/>
+* **Facebook:** <https://www.facebook.com/stb1019/>
+* **Github:** <https://github.com/STB1019>
