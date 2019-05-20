@@ -21,7 +21,7 @@ Lo scorso anno per la prima volta Brescia ha preso parte all'hackathon organizza
 
 [Pagina instagram dell'evento](https://www.instagram.com/space_apps_challenge_brescia/?utm_source=ig_profile_share&igshid=1tis1kr6qd4vq)
  
-# Il ruolo dello Student Branch 
-Quest'anno lo Student Branch è impegnato nell'organizzazione dell'evento, il nostro ruolo è quello partecipare direttamente all'organizzazione dell'evento, pubblicizzare nel corso di questi mesi attraverso i nostri canali ufficiali e far parte dello staff che gestirà il tutto all'evento. 
+### Il ruolo dello Student Branch 
+Quest'anno lo Student Branch è impegnato nell'organizzazione dell'evento. Il nostro ruolo è quello partecipare direttamente all'organizzazione dell'evento, pubblicizzare nel corso di questi mesi attraverso i nostri canali ufficiali e far parte dello staff che gestirà il tutto all'evento. 
 Questa è per il Branch un'occasione poiché permette a noi membri di prender parte ad una collaborazione in una vera attività lavorativa, fare networking e avere la possibilità di conoscere gente importante del settore.
-L'evento coinvolge infatti personalità di spicco chiamate a giudicare le idee dei partecipanti (trovate sulla pagina Instagram linkata sopra quelle dello scorso anno).
+L'evento coinvolge infatti personalità di spicco chiamate a giudicare le idee dei partecipanti (nella pagina Instagram linkata sopra i giudici dello scorso anno).
