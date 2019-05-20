@@ -9,7 +9,7 @@ tags : [Events]
 ## Overview
 Space Apps è un hackathon internazionale dove chiunque, a prescindere dalla professione e dal livello di istruzione, può partecipare.
 In diverse città del mondo vari team si riuniscono e si impegnano nel proporre idee innovative riguardo a diverse tematiche proposte dalla Nasa.
-Per approfondimenti sulla natura dell'evento vi riporto i seguenti link:
+Per approfondimenti sulla natura dell'evento:
 
 * [pagina dell'evento di quest'anno](https://2019.spaceappschallenge.org/);
 * [lista delle idee vincenti della scorsa edizione](https://2018.spaceappschallenge.org/awards/global-finalists).
