@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collaborazione  on lo Student Branch di Napoli
+title: Collaborazione con lo Student Branch di Napoli
 tags : [Events]
 ---
 
