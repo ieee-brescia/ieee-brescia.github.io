@@ -8,4 +8,12 @@ tags : [Info]
 
 ## Overview
 
-This is the initial page for the IEEE Student Branch of Brescia. Here we will host upcoming projects, programs that we did and much more.
+Questa è la home del sito ufficiale dell'IEEE Student Branch of Brescia. Di seguito è possibile trovare informazioni quali:
+
+* progetti attivi o archiviati a carico dell'associazione;
+* eventi organizzati dal Branch e in generale attività esterne nelle quali si è coinvolti in qualità di organizzatori.
+
+
+
+
+# Articoli recenti
