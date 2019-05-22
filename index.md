@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![Header](/images/header_ieee.jpg)
+![Header](/images/header_about_us.jpg)
 
 ## Overview
 
