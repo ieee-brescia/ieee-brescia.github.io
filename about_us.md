@@ -35,7 +35,7 @@ Within the site there are some of the *projects* we awithre developing or that w
 * **Daniele Della Morte** - Program Committee
 * **Paolo Faustini** - Program Committee
 * **Diego Berardi** - Publicity Committee
-* **Paolo Pasquali** - Publicity COmmittee
+* **Paolo Pasquali** - Publicity Committee
 * **Massimo Bono** - Financial Committee
 * **Flavio Giordani** - Financial Committee
 * **Andrea Rossi** - Publicity Committee
