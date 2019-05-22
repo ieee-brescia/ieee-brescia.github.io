@@ -1,9 +1,7 @@
 ---
-layout: post
-title: IEEESB - Student Branch Of Brescia
-tags : [Info]
+layout: default
+title: Home
 ---
-
 ![Header](/images/header_ieee.jpg)
 
 ## Overview
@@ -14,3 +12,4 @@ Questa è la home del sito ufficiale dell'IEEE Student Branch of Brescia. Di seg
 * eventi organizzati dal Branch e in generale attività esterne nelle quali si è coinvolti in qualità di organizzatori.
 
 **[Articoli recenti](/index2.html)**
+§
