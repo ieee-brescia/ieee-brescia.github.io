@@ -7,7 +7,7 @@ tags : [Events]
 Dopo il succeso dell'IEEE Student Contest tenuto dallo Student Branch di Brescia lo scorso anno durante l'**IEEE International Workshop on Metrology for Indutry 4.0 & IoT** lo Student Branch sta quest'anno collaborando ad organizzare un Hackathon in occasione del MetroInd4.0&IoT 2019:
 
 
-![Header](/images/logo_hackathon.jpg)
+![Header](/images/header_hackathon.jpg)
 
 *The Instrumentation and Measurement (IM) Italy Chapter, the IEEE Sensor Council and the IEEE Student Branch of Naples, in cooperation with IEEE Student Branch of Brescia and of Università Campus Bio-Medico di Roma, are proud to announce the MetroInd4.0&IoT 2019 IEEE Student Hackathon, which will be held during the 2019 IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4.0&IoT).*
 
