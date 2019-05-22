@@ -4,27 +4,28 @@ title: GaSP - A Unity3D Game
 tags : [Finished Projects]
 ---
 ![Header](/images/header_gasp.png)
-
+s
 
 ## Overview
-GaSP (acronym for GAme Student Project) is a project that aims to build a videogame using the Unity3D game engine. The game wants to be a 2D platformer with a minimalistic art style and with time rewind mechanics.
+GaSP (acronimo per GAme Student Project) è un progetto il cui scopo è sviluppare un videogioco usando il motore grafico Unity3D. Il gioco dovrà essere un platformer 2D con uno stile artistico minimal e delle meccaniche di rallentamento e rewind del tempo.
 
-The player will be able to rewind and slow down time for a limited period of time, and all the gameplay challenges will be based on that. The game is being developed in C# with the help of the Unity3D interface.
+Il giocatore sarà in grado di rallentare e far tornare indietro il tempo per un periodo limitato, e tutte le sfide di gameplay saranno incentrate su queste meccaniche. Il gioco sta venendo sviluppato in C# usando Unity3D.
 
-### Skills
-If you plan to work on this project you will most likely develop the following skills: 
+### Conoscenze
+Se intendete lavorare a questo progetto, probabilmente svilupperete le seguenti conoscenze:
 
-* Decent knowledge of the Unity3D game engine;
-* Object oriented programming and C# knowledge;
-* Base details of game design;
-* Sprites, 2D graphics and animations;
-* Sound design and implementation;
-* Project management and teamwork;
-* Everyone is free to join and there are no special prerequisites. We're willing to provide documentation and tutorials for core concepts and to explain how game development works. The only things you'll need is the willing to learn, to work as a team and a decent C knowledge.
+* Unity3D come motore grafico
+* Programmazione a oggetti e conoscenza del C#;
+* Dettagli base di Game Design;
+* Sprites, animazioni e grafica 2D;
+* Sound design e sua implementazione;
+* Gestione di progetti e lavoro di squadra;
 
-### Resources
-*Useful documentation:*
+Tutti sono invitati a partecipare e non vi sono prerequisiti speciali. Siamo disponibili a fornirvi tutta la documentazione ed i tutorial per i concetti chiave e siamo pronti a spiegarvi come funziona lo sviluppo videoludico. L'unca cosa richiesta è la voglia di imparare, di lavorare come un team, ed una conoscenza sufficiente di C.
 
-* Unity3D website: [http://unity3d.com/](http://unity3d.com/)
-* What is Unity3D: [https://www.youtube.com/watch?v=AJ6Mkx1KEns](https://www.youtube.com/watch?v=AJ6Mkx1KEns)
-* Unity3D tutorials: [https://unity3d.com/learn/tutorials](https://unity3d.com/learn/tutorials)
+### Risorse
+*Documentazione utile:*
+
+* Sito web di Unity3D: [http://unity3d.com/](http://unity3d.com/)
+* Cos'è Unity3D: [https://www.youtube.com/watch?v=AJ6Mkx1KEns](https://www.youtube.com/watch?v=AJ6Mkx1KEns)
+* Tutorial di Unity3D: [https://unity3d.com/learn/tutorials](https://unity3d.com/learn/tutorials)
