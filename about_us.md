@@ -17,7 +17,7 @@ The **Branch** offers the opportunity to *research* at the same level as IEEE me
 
 The possibility to get in touch  realities other than purely scholastic allows one to have a different vision about what **developing** and **maintaining** a project mean, and also the ability to **learn** new concepts.
 
-In addition to the *projects*, we give our members the opportunity to attend a conference, to talk about their project and the difficulties they have encountered, as well as the things they have learned; last year we have organised a conference called "**CISB**""(*Conference of IEEE Student Branch of Brescia*) on various topics including *Game Development, Kotlin, Artificial Intelligence and Virtualization*.
+In addition to the *projects*, we give our members the opportunity to attend a conference, to talk about their project and the difficulties they have encountered, as well as the things they have learned; last year we have organised a conference called "**CISB**"(*Conference of IEEE Student Branch of Brescia*) on various topics including *Game Development, Kotlin, Artificial Intelligence and Virtualization*.
 
 Within the site there are some of the *projects* we awithre developing or that we have carried out over the past years and information about our flagship program "**The Arnald Program**" and the collaborations we had since 2016.
 
