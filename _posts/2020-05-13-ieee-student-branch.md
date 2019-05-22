@@ -12,10 +12,15 @@ Questa è la home del sito ufficiale dell'IEEE Student Branch of Brescia. Di seg
 * progetti attivi o archiviati a carico dell'associazione;
 * eventi organizzati dal Branch e in generale attività esterne nelle quali si è coinvolti in qualità di organizzatori.
 
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
-
-
-.
-________________________________________________________________________________________________________________________________
 # Ultimi Articoli:
 
