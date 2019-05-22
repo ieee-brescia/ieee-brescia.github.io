@@ -2,27 +2,52 @@
 layout: page
 title: About Us
 category: About
-tags: [ieee, contacts]
+tags: [ieee, contacts, Info]
 ---
 
 [Placeholder Per Una Nostra Foto]
 
 ## Our Mission
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultrices sapien tellus, a posuere sem mollis sed. Nullam elementum turpis libero, at vulputate dolor ornare id. Morbi ac fermentum diam, sit amet ornare tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut sit amet tellus lacinia, dignissim arcu sed, ultrices erat. Ut auctor consectetur felis, nec mattis tellus rutrum a. Pellentesque tincidunt felis ac dolor hendrerit, et hendrerit elit varius. Duis eget maximus dolor, ut congue neque. Nulla sollicitudin, nisl sollicitudin volutpat hendrerit, lacus metus porta ligula, at semper ante metus vitae ipsum. Ut sodales leo magna, eu imperdiet dui efficitur sodales.
+**IEEE Student Branch of Brescia** is the reference for the *IEEE* (Institute of Electrical and Electronics Engineers) in Brescia.
+Our **main goal** is to integrate the modus operandi of scientific research into the academic and professional career of each member, this takes place through group projects or individual research in different fields of IT.
 
-Pellentesque sit amet tincidunt orci, vel porttitor dui. Duis accumsan arcu est, vel pharetra urna suscipit sit amet. Quisque eget mauris volutpat, faucibus turpis quis, blandit nunc. Nullam ut pharetra sapien, et convallis lorem. Cras non eros ut enim auctor fringilla. Aenean porttitor eget turpis at auctor. Nulla at massa mi. Integer viverra posuere magna ut aliquam.
+The **Branch** offers the opportunity to *research* at the same level as IEEE members from around the world, while remaining completely immersed in the academic environment, with the support of the teaching staff and doctoral students.
 
-## Our Members
+The possibility to get in touch  realities other than purely scholastic allows one to have a different vision about what **developing** and **maintaining** a project mean, and also the ability to **learn** new concepts.
 
-* **Lorem ipsum** - Chair
-* **dolor sit amet** - Vice Chair
-* **consectetur adipiscing** - Financial Committee
-* **elit Phasellus ultrices** - Program Committee
-* **sapien tellus, a posuere** - Publicity Committee
-* **sem mollis sed** - Membership Committee
+In addition to the *projects*, we give our members the opportunity to attend a conference, to talk about their project and the difficulties they have encountered, as well as the things they have learned; last year we have organised a conference called "**CISB**""(*Conference of IEEE Student Branch of Brescia*) on various topics including *Game Development, Kotlin, Artificial Intelligence and Virtualization*.
+
+Within the site there are some of the *projects* we awithre developing or that we have carried out over the past years and information about our flagship program "**The Arnald Program**" and the collaborations we had since 2016.
+
+
+
+## Members
+
+* **Simone Caldarella** - Chair
+* **Samuele Ponzi** - Vice Chair
+* **Samuele Leone** - Treasurer
+* **Nicola Onofri** - Secretary
+* **Prof. Alessandro Depari** - Counselor
+* **Nikita Brancatisano** - Membership committee
+* **Yari Bussi** - Financial Committee
+* **Daniele Della Morte** - Program Committee
+* **Paolo Faustini** - Program Committee
+* **Diego Berardi** - Publicity Committee
+* **Paolo Pasquali** - Publicity COmmittee
+* **Massimo Bono** - Financial Committee
+* **Flavio Giordani** - Financial Committee
+* **Andrea Rossi** - Publicity Committee
+* **Stefano Prandini** - Program Committee
+* **Paolo Bellagente** - Program Committee
+* **Massimiliano Tummolo** - New Members
+* **Alessandro Pagani** - New Members
+
+
 
 ## Contact Us
 
-* **Phone Number:** 123456420
-* **E-mail:** hmmmm
+* **E-mail:** <Stb1019_executive@googlegroups.com>
+* **Instagram:** <https://www.instagram.com/stb01019/>
+* **Facebook:** <https://www.facebook.com/stb1019/>
+* **Github:** <https://github.com/STB1019>
