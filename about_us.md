@@ -5,7 +5,8 @@ category: About
 tags: [ieee, contacts, Info]
 ---
 
-[Placeholder Per Una Nostra Foto]
+[Header](/images/header_about_us.jpg)
+
 
 ## Our Mission
 
