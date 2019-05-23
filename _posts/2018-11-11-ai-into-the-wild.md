@@ -4,7 +4,7 @@ title: AI into the wild
 tags : [Finished Projects]
 ---
 
-Con il progetto Ai into the wild l'obbiettivo che si è voluto raggiungere è di testare e portare al limite quelle che sono le possibilità di una **CNN** (Convolutional Neural Network) nella risoluzione di un task di *"Face Recognition"*.
+Con il progetto "**AI into the wild**" l'obbiettivo che si è voluto raggiungere è di testare e portare al limite quelle che sono le possibilità di una **CNN** (Convolutional Neural Network) nella risoluzione di un task di *"Face Recognition"*.
 
 ##Cos'è una CNN?
 
