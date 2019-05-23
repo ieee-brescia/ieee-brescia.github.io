@@ -3,7 +3,7 @@ layout: post
 title: IEEESB - Student Branch Of Brescia
 ---
 
-![Header](/images/header_about_us.jpg)
+![Header](/images/header_about_us_fixed.jpg)
 
 ## Overview
 
