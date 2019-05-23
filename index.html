@@ -13,8 +13,10 @@ title: Home
     </h1>
     {% if post.title != 'IEEESB - Student Branch Of Brescia' %}
     <span class="post-date">
-      {{ post.date | date_to_string }}
+      {{ post.date | date_to_string }}  
     </span>
+    {% else}
+        <span class="post-date"></span>
     {% endif %}
     {{ post.content }}
   </div>
