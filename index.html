@@ -11,14 +11,11 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-   
     {% if post.title != 'IEEESB - Student Branch Of Brescia' %}
     <span class="post-date">
       {{ post.date | date_to_string }}
-      {{post.title}}
     </span>
-    {% endif % }
-
+    {% endif %}
     {{ post.content }}
   </div>
   {% endfor %}
