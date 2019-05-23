@@ -5,7 +5,7 @@ category: About
 tags: [ieee, contacts, Info]
 ---
 
-![Header](/images/header_about_us.jpg)
+![Header](/images/header_about_us_fixed.jpg)
 
 
 ## Our Mission
