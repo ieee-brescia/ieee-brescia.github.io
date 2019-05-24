@@ -9,15 +9,19 @@ tags : [Events]
 ## Overview
 Space Apps è un hackathon internazionale dove chiunque, a prescindere dalla professione e dal livello di istruzione, può partecipare.
 In diverse città del mondo vari team si riuniscono e si impegnano nel proporre idee innovative riguardo a diverse tematiche proposte dalla Nasa.
+
+![Image](/images/image_nasa.jpg)
+
 Per approfondimenti sulla natura dell'evento:
 
 * [pagina dell'evento di quest'anno](https://2019.spaceappschallenge.org/);
 * [lista delle idee vincenti della scorsa edizione](https://2018.spaceappschallenge.org/awards/global-finalists).
 
-![Image](/images/image_nasa.jpg)
 
 ## Space app anche a Brescia
 Lo scorso anno per la prima volta Brescia ha preso parte all'hackathon organizzando un evento tra gli oltre 200 sparsi in tutto il mondo (a livello mondiale più di 18.000 partecipanti in 75 paesi).
+
+![Image](/images/header_nasa.jpg)
 
 [Pagina ufficiale dell'evento dello scorso anno](https://2018.spaceappschallenge.org/locations/brescia)
 
