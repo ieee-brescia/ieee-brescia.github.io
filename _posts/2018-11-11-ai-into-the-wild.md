@@ -26,6 +26,6 @@ Inizialmente all'utente viene richiesto un video di 20 secondi per ogni persona 
 ## Membri del progetto
 
 Simone Caldarella (Referente) 
-[Link] (simone.caldarella.it@ieee.org)
+<simone.caldarella.it@ieee.org>
 
 Massimo Bono (Osservatore)
