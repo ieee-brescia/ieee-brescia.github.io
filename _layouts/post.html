@@ -16,7 +16,11 @@ layout: default
         <h3>
           <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
+            {% if post.title != 'IEEESB - Student Branch Of Brescia' %}
             <small>{{ post.date | date_to_string }}</small>
+            {% else %}
+            <small></small>
+            {% endif %}
           </a>
         </h3>
       </li>
