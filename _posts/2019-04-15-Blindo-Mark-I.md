@@ -1,11 +1,11 @@
 ---
 layout: post
-title: BLINDO MARK I
+title: Blindo Mark I
 tags : [Finished Projects]
 ---
 
 ![Header](/images/footer_Blindo.jpg)
-*Blindo work in progress*
+*work in progress*
 
 Con il progetto Blindo i membri si **impegnano** nella realizzazione di un dispositivo atto alla **semplificazione** delle fasi di apprendimento di studenti non vedenti.
 
