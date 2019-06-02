@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nasa Space App Challange 2019
+title: Nasa Space Apps Challange 2019
 tags : [Events]
 ---
 
@@ -18,7 +18,7 @@ Per approfondimenti sulla natura dell'evento:
 * [lista delle idee vincenti della scorsa edizione](https://2018.spaceappschallenge.org/awards/global-finalists).
 
 
-## Space app anche a Brescia
+## Space Apps anche a Brescia
 Lo scorso anno per la prima volta Brescia ha preso parte all'hackathon organizzando uno deglie eventi tra gli oltre 200 sparsi in tutto il mondo (a livello mondiale più di 18.000 partecipanti in 75 paesi).
 
 ![Image](/images/header_nasa.jpg)
