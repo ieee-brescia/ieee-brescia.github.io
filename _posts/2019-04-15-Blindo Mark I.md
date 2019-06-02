@@ -1,10 +1,11 @@
 ---
 layout: post
-title: BLINDO
-tags : [Current Projects]
+title: BLINDO MARK I
+tags : [Finished Projects]
 ---
 
 ![Header](/images/footer_Blindo.jpg)
+*Blindo work in progress*
 
 Con il progetto Blindo i membri si **impegnano** nella realizzazione di un dispositivo atto alla **semplificazione** delle fasi di apprendimento di studenti non vedenti.
 
@@ -21,15 +22,16 @@ La fase che permetterà l’associazione di un file audio ad un pulsante sarà r
 
 La presenza di uno schermo **touch screen** capacitivo servirà proprio a migliorare questo tipo di esperienza.
 
-Il progetto è stato realizzato con il **Raspberry Pi 3** , un single-board computer il quale è stato interamente programmato in **Python**.
+Il progetto prevede lo sviluppo del primo prototipo con un **Raspberry Pi 3** , single-board computer, sul quale verrà sviluppato il lato software, interamente programmato in **Python**.
 
 ![Footer](/images/members_Blindo.jpg)
+*I membri del progetto al lavoro sulla fase di registrazione*
 
 ## Membri del progetto
 
-* Diego Berardi
-* Massimiliano Tummolo
-* Samuele Ponzin
 * Yari Bussi   **(referente)**	<yaribussi@ieee.org>
+* Diego Berardi
+* Samuele Ponzin
+* Massimiliano Tummolo
 * Simone Caldarella **(osservatore)**
 
