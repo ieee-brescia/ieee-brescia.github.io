@@ -4,7 +4,6 @@ title: GaSP - A Unity3D Game
 tags : [Finished Projects]
 ---
 ![Header](/images/header_gasp.png)
-s
 
 ## Overview
 GaSP (acronimo per GAme Student Project) è un progetto il cui scopo è sviluppare un videogioco usando il motore grafico Unity3D. Il gioco dovrà essere un platformer 2D con uno stile artistico minimal e delle meccaniche di rallentamento e rewind del tempo.
