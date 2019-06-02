@@ -5,7 +5,7 @@ tags : [Events]
 ---
 
 Il progetto [Blindo](/2019/04/15/blindo) ha fatto grandi progressi, è stato realizzato un primo prototipo del dispositivo.
-Il dispositivo è integrato con una pulsantiera e un microfono che a scopo dimostrativo mostrano il corretto funzionamento di Blindo.
+Quest'ultimo è integrato con una pulsantiera e un microfono che a scopo dimostrativo mostrano il corretto funzionamento di Blindo.
 
 ![Header](/images/header_incontro_biazzi.jpg)
 *presentazione del prototipo*
