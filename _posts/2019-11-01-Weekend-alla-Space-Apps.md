@@ -16,7 +16,7 @@ Il nostro ruolo è stato fondamentale, ci siamo messi in gioco come:
 * **Giudici ufficiali**: il nostro ex Chiar Simone Caldarella ha fatto parte della giuria di quest’anno.
 
 ![Image](/images/image_Weekend_alla_Space_Apps.jpeg)
-*Gli organizzatori, i mentori e i giudici riuniti*
+*i mentori e i giudici riuniti*
 
 Nell’edizione di quest’anno cinque team si sono sfidati con l’obiettivo di trovare delle soluzioni a problemi proposti dalla Nasa, riguardanti la Terra e lo spazio.
 
