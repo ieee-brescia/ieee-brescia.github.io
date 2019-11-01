@@ -5,8 +5,6 @@ tags : [Events]
 ---
 
 ![Header](/images/header_Weekend_alla_Space_Apps.JPG)
-
-![Header](/images/header_hackathon.jpg)
 *Il 19 e il 20 ottobre abbiamo partecipato alla Nasa Space Apps Challenge in qualità di organizzatori*
 
 Come anticipato nell’articolo di qualche mese nel quale è stato presentato l’evento, abbiamo preso parte ad una collaborare con l’associazione Interstellars per organizzare questo fantastico evento.
