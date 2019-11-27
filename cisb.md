@@ -35,6 +35,6 @@ Tra i vantaggi che vediamo, vi sono sicuramente:
 ## Edizioni
 
 * 5 Dec 2018 @ Aula Consiliare, Polo Ingegneristico, Università degli Studi di Brescia. [See the post](/_posts/2018-12-05-cisb-2018.md)
-* Coming soon...
+* 5 Dec 2019 @ Aula Consiliare, Polo Ingegneristico, Università degli Studi di Brescia. [See the post](/_posts/2019-12-05-cisb-2019.md)
 
-Resta aggiornato tramite le pagine [Facebook](https://www.facebook.com/stb1019), [Instagram](https://www.instagram.com/stb01019) e [Twitter](https://www.twitter.com/stb1019), oppure scrivi a [cisb@googlegroups.com](mailto:cisb@googlegroups.com) per ulteriori informazioni.
+Resta aggiornato tramite le pagine [Facebook](https://www.facebook.com/stb01019), [Instagram](https://www.instagram.com/stb01019) e [Twitter](https://www.twitter.com/stb1019), oppure scrivi a [cisb@googlegroups.com](mailto:cisb@googlegroups.com) per ulteriori informazioni.
