@@ -25,23 +25,24 @@ Within the site there are some of the *projects* we awithre developing or that w
 
 ## Members
 
-* **Simone Caldarella** - Chair
-* **Samuele Ponzi** - Vice Chair
-* **Samuele Leone** - Treasurer
-* **Nicola Onofri** - Secretary
+* **Yari Bussi** - Chair
+* **Massimiliano Tummolo** - Vice Chair
+* **Diego Berardi** - Treasurer
+* **Samuele Ponzin** - Secretary
+* **Andrea D'Urso** - Social Media Manager
 * **Prof. Alessandro Depari** - Counselor
 * **Nikita Brancatisano** - Membership committee
-* **Yari Bussi** - Financial Committee
+* **Nicola Onofri** - Publicity Committee
+* **Simone Caldarella** - Financial Committee
 * **Daniele Della Morte** - Program Committee
 * **Paolo Faustini** - Program Committee
-* **Diego Berardi** - Publicity Committee
+* **Samuele Leone** - Publicity Committee
 * **Paolo Pasquali** - Publicity Committee
 * **Massimo Bono** - Financial Committee
 * **Flavio Giordani** - Financial Committee
 * **Andrea Rossi** - Publicity Committee
 * **Stefano Prandini** - Program Committee
 * **Paolo Bellagente** - Program Committee
-* **Massimiliano Tummolo** - New Members
 * **Alessandro Pagani** - New Members
 
 
