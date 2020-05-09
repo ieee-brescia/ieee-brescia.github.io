@@ -6,8 +6,8 @@ permalink:           pretty
 
 # Setup
 title:               IEEE Student Branch
-tagline:             'Student Branch Di Brescia'
-description:         'Un sito contenente tutti i progetti IEEESB di Brescia'
+tagline:             'Student Branch of the Univerity of Brescia'
+description:         'The offical site of the STB01019'
 url:                 https://ieee-brescia.github.io/
 baseurl:             ''
 paginate:            5
