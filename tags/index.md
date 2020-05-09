@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Find an Article! [TAGS]
+title: Find an Article! - TAGS
 comments: false
 ---
  
