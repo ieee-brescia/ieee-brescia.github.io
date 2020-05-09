@@ -51,5 +51,5 @@ Within the site there are some of the *projects* we awithre developing or that w
 
 * **E-mail:** <Stb1019_executive@googlegroups.com>
 * **Instagram:** <https://www.instagram.com/stb01019/>
-* **Facebook:** <https://www.facebook.com/stb1019/>
+* **Facebook:** <https://www.facebook.com/stb01019/>
 * **Github:** <https://github.com/STB1019>
