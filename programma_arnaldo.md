@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Manifesto Programma Arnaldo
