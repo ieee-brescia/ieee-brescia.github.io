@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WCRC Phase 0: webinar
+title: WCRC Phase 0 - webinar
 tags : [Events]
 ---
 
