@@ -33,13 +33,13 @@ Within the site there are some of the *projects* we awithre developing or that w
 * **Prof. Alessandro Depari** - Counselor
 * **Nikita Brancatisano** - Membership committee
 * **Nicola Onofri** - Publicity Committee
-* **Simone Caldarella** - Financial Committee
+* **Simone Caldarella** - Membership committee
 * **Daniele Della Morte** - Program Committee
 * **Paolo Faustini** - Program Committee
 * **Samuele Leone** - Publicity Committee
 * **Paolo Pasquali** - Publicity Committee
 * **Massimo Bono** - Financial Committee
-* **Flavio Giordani** - Financial Committee
+* **Flavio Giordani** - Membership committee
 * **Andrea Rossi** - Publicity Committee
 * **Stefano Prandini** - Program Committee
 * **Paolo Bellagente** - Program Committee
