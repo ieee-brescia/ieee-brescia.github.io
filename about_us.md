@@ -31,7 +31,6 @@ Within the site there are some of the *projects* we awithre developing or that w
 * **Samuele Ponzin** - Secretary
 * **Andrea D'Urso** - Social Media Manager
 * **Prof. Alessandro Depari** - Counselor
-
 * **Paolo Bellagente** - Membership Committee
 * **Nikita Brancatisano** - Membership committee
 * **Simone Caldarella** - Membership committee
@@ -40,7 +39,6 @@ Within the site there are some of the *projects* we awithre developing or that w
 * **Alessandro Pancera** - Membership Committee
 * **Frenki Shqepa** - Membership Committee
 * **Flavio Giordani** - Membership committee
-
 * **Nicola Onofri** - Publicity Committee
 * **Samuele Leone** - Publicity Committee
 * **Marco Milanesi** - Publicity Committee
@@ -51,12 +49,9 @@ Within the site there are some of the *projects* we awithre developing or that w
 * **Andrea Begni** - Publicity Committee
 * **Massimo Bono** - Financial Committee
 * **Andrea Rossi** - Publicity Committee
-
 * **Alessandro Pagani** - Financial Committee
 * **Iylass Elkhedar** - Financial Committee
 * **Paolo Riva** - Financial Committee
-
-
 
 ## Contact Us
 
