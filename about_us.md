@@ -39,6 +39,7 @@ Within the site there are some of the *projects* we awithre developing or that w
 * **Alessandro Pancera** - Membership Committee
 * **Frenki Shqepa** - Membership Committee
 * **Flavio Giordani** - Membership committee
+* **Andrea Rossi** - Publicity Committee
 * **Nicola Onofri** - Publicity Committee
 * **Samuele Leone** - Publicity Committee
 * **Marco Milanesi** - Publicity Committee
@@ -48,7 +49,6 @@ Within the site there are some of the *projects* we awithre developing or that w
 * **Ilaria Pasini** - Publicity Committee
 * **Andrea Begni** - Publicity Committee
 * **Massimo Bono** - Financial Committee
-* **Andrea Rossi** - Publicity Committee
 * **Alessandro Pagani** - Financial Committee
 * **Iylass Elkhedar** - Financial Committee
 * **Paolo Riva** - Financial Committee
