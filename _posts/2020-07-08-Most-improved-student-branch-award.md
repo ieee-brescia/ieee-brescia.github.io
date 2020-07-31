@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collaboration with Naples' IEEE Student Branch
+title: Most improved student branch award
 tags : [Events]
 ---
 
