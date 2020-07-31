@@ -4,7 +4,7 @@ title: Most improved student branch award
 tags : [Events]
 ---
 
-We are really proud to announce that the IEEE Student Branch of Brescia has been awarded the prize as **Most Improved Student Branch**, released by the IEEE Italy Section.
+We are really proud to announce that the IEEE Student Branch of Brescia has been awarded the prize as **Most Increased Membership Student Branch**, released by the IEEE Italy Section.
 
 ![Image](/images/header_prize.jpg)
 
